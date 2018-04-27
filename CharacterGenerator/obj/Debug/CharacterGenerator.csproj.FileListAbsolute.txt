@@ -1,0 +1,7 @@
+C:\Users\Tyler_Top\Desktop\C# Projects\FitnessProject\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.exe.config
+C:\Users\Tyler_Top\Desktop\C# Projects\FitnessProject\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.exe
+C:\Users\Tyler_Top\Desktop\C# Projects\FitnessProject\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.pdb
+C:\Users\Tyler_Top\Desktop\C# Projects\FitnessProject\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Tyler_Top\Desktop\C# Projects\FitnessProject\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Tyler_Top\Desktop\C# Projects\FitnessProject\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.exe
+C:\Users\Tyler_Top\Desktop\C# Projects\FitnessProject\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.pdb
